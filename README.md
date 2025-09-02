@@ -1,4 +1,4 @@
-## Hi there, I am A FullStack Developer 👋
+## Hi there, I am Aditya a FullStack Developer 👋
 
 
 ## 🔭 About Me
