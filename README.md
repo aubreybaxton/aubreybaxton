@@ -1,5 +1,24 @@
-## Hi there 👋
+## Hi there, I am A FullStack Developer 👋
 
+
+## 🔭 About Me
+- Full‑Stack Developer |JavaScript, React, Node.js,Express, MongoDB and PostgreSQL with PrismaORM
+- Passionate about building scalable web apps, clean APIs, and delightful UX
+- Currently: OPEN TO Work
+
+## 🛠️ Tech Stack
+- Frontend: React, Tailwind CSS, Bootstrap
+- Backend: Node.js, Express,
+- Databases: MongoDB, PrismaORM with PostgreSQL
+- DevOps:  AWS, Docker,CI/CD, Jenkins
+- Tools: Postman, Git, Github, Gitlab
+
+## 🚀 Selected Projects
+  >Todo app
+
+  >LeetLab Clone
+  
+  
 <!--
 **aubreybaxton/aubreybaxton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
