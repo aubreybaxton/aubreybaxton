@@ -7,15 +7,14 @@
 - Currently: OPEN TO Work
 
 ## 🛠️ Tech Stack
-- Frontend: React, Tailwind CSS, Bootstrap
-- Backend: Node.js, Express,
+- Frontend: React, NextJS, TypeScript, Tailwind CSS, Bootstrap, DaisyUI
+- Backend: Node.js, Express, Mongoose
 - Databases: MongoDB, PrismaORM with PostgreSQL
 - DevOps:  AWS, Docker,CI/CD, Jenkins
 - Tools: Postman, Git, Github, Gitlab
 
 ## 🚀 Selected Projects
   >Todo app
-
   >LeetLab Clone
   
   
